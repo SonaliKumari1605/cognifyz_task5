@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    background-color: rgb(136, 133, 133);
+    padding: 10px 70px;
+    
+}
+button{
+    padding: 10px 60px;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-image: linear-gradient(90deg, rgb(236, 23, 165), pink);
+    color: white;
+    border: 1px solid rgb(247, 18, 56);
+}
+body{
+    background-color: rgb(166, 248, 221);
+}
+.result{
+    font-size: 2rem;
+    color: brown;
+}
+button:hover{
+    background-image: linear-gradient(90deg, rgb(240, 86, 86), rgb(94, 11, 11));
+    border: 1px solid rgb(36, 1, 1);
+}
